@@ -15,7 +15,8 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
-distance_reducerAAA/.idea
+.idea
+.idea/
 *.iml
 out
 gen
