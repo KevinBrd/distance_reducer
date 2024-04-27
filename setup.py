@@ -17,6 +17,7 @@ setup(
         'plotly',
         'docplex',
         'geopy',
+        'pytest'
     ],
     classifiers=[
         'Development Status :: 3 - Alpha',
